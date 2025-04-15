@@ -1,5 +1,5 @@
 
-# Welcome to Open Edge Platform GitHub Organization! 
+# Welcome to the Open Edge Platform GitHub Organization! 
 
 Intel’s Open Edge Platform is a secure, optimized open platform for delivering scalable edge solutions. 
 
