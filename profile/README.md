@@ -11,7 +11,7 @@ capabilities.
 
 
 <div align="center">
-<img src="https://github.com/images/oep.png" alt="Open Edge Platform Logo" width="500">
+<img src="https://github.com/open-edge-platform/.github/blob/main/images/oep1.png"" alt="Open Edge Platform Logo" width="500">
 </div>
 
 ## The platform comprises of four key repositories.  
