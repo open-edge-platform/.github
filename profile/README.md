@@ -9,7 +9,7 @@ It offers a modular, composable software stack that brings together the open sou
 <img src="https://github.com/open-edge-platform/.github/blob/main/images/oep1.png"" alt="Open Edge Platform Logo" width="500">
 </div>
 
-## The platform is comprised of four key repositories:  
+## The platform is comprised of five key repositories:  
 
 * [Edge AI Suites](https://github.com/open-edge-platform/edge-ai-suites) are curated collections of building blocks, industry-specific libraries,
   and sample applications designed to help you develop optimized AI solutions tailored to specific use cases. Currently, five suites are featured:
@@ -26,6 +26,8 @@ It offers a modular, composable software stack that brings together the open sou
   clusters at scale. 
 * [Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit) is an edge-optimized container host with a minimal footprint,
   designed to harness the latest Intel silicon capabilities for deploying advanced AI workloads at the edge.
+* [Edge Workloads and Benchmarks](https://github.com/open-edge-platform/edge-workloads-and-benchmarks) are performance-optimized pipelines that leverage the OpenVINO™ toolkit, the GStreamer multimedia framework,
+  and the Deep Learning Streamer (DL Streamer) for validating media and edge AI analytics benchmarks.
 
 Each repository includes contribution guidelines and templates for reporting issues.
 
