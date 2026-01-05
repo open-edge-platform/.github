@@ -1,7 +1,7 @@
 
 # Welcome to the Open Edge Platform GitHub Organization! 
 
-Intel’s Open Edge Platform [(GitHub repository)](https://github.com/open-edge-platform) [(documentation website)](https://docs.openedgeplatform.intel.com/) is a secure, optimized open platform for delivering scalable edge solutions. 
+Intel’s Open Edge Platform is a secure, optimized open platform for delivering scalable edge solutions. 
 
 It offers a modular, composable software stack that brings together the open source ecosystem to help you build optimized edge and AI solutions and securely operationalize them with cloud-like capabilities.
 
@@ -30,6 +30,8 @@ It offers a modular, composable software stack that brings together the open sou
   and the Deep Learning Streamer (DL Streamer) for validating media and edge AI analytics benchmarks.
 
 Each repository includes contribution guidelines and templates for reporting issues.
+
+You can access the platform documentation at https://docs.openedgeplatform.intel.com/.
 
 Unless otherwise noted, the platform’s repositories are primarily released under the Apache 2.0 license.
 
