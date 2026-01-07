@@ -27,7 +27,7 @@ It offers a modular, composable software stack that brings together the open sou
 * [Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit) is an edge-optimized container host with a minimal footprint,
   designed to harness the latest Intel silicon capabilities for deploying advanced AI workloads at the edge.
 * [Edge Workloads and Benchmarks](https://github.com/open-edge-platform/edge-workloads-and-benchmarks) are performance-optimized pipelines that leverage the OpenVINO™ toolkit, the GStreamer multimedia framework,
-  and the Deep Learning Streamer (DL Streamer) for validating media and edge AI analytics benchmarks.
+  and the Deep Learning Streamer (DL Streamer) for validating media and edge AI analytics.
 
 Each repository includes contribution guidelines and templates for reporting issues.
 
