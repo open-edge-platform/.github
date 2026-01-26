@@ -1,4 +1,3 @@
-
 # Welcome to the Open Edge Platform GitHub Organization! 
 
 Intel’s Open Edge Platform is a secure, optimized open platform for delivering scalable edge solutions. 
@@ -26,7 +25,7 @@ It offers a modular, composable software stack that brings together the open sou
   </a>
 </div>
 
-## The platform is comprised of five key repositories:  
+## The platform comprises five key repositories: 
 
 * [Edge AI Suites](https://github.com/open-edge-platform/edge-ai-suites) are curated collections of building blocks, industry-specific libraries,
   and sample applications designed to help you develop optimized AI solutions tailored to specific use cases. Currently, five suites are featured:
@@ -54,4 +53,4 @@ You can access the platform documentation at https://docs.openedgeplatform.intel
 
 Unless otherwise noted, the platform’s repositories are primarily released under the Apache 2.0 license.
 
-Join our community and help shape the future of edge!
+Join our community and help shape the future of the edge!
