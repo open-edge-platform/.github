@@ -41,7 +41,7 @@ It offers a modular, composable software stack that brings together the open sou
   secure onboarding, provisioning, and management of edge devices and edge node software, along with orchestration of edge and AI applications and
   clusters at scale. 
 * [Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit) is an edge-optimized container host offering the latest
-  Intel silicon capabilities, for exploring advanced AI workloads at the edge. It is a minimal-footprint system based on Azure Linux, sharing
+  Intel silicon capabilities, for exploring advanced AI workloads at the edge. It is a minimal-footprint system based on Azure Linux distribution, sharing
   its open source license.
 * [Edge Workloads and Benchmarks](https://github.com/open-edge-platform/edge-workloads-and-benchmarks) are performance-optimized pipelines that
   leverage the OpenVINO™ toolkit, the GStreamer multimedia framework,
