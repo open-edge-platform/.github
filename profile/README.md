@@ -40,7 +40,10 @@ It offers a modular, composable software stack that brings together the open sou
   deployment.
 * [Edge Manageability Framework](https://github.com/open-edge-platform/edge-manageability-framework) provides capabilities and building blocks for
   secure onboarding, provisioning, and management of edge devices and edge node software, along with orchestration of edge and AI applications and
-  clusters at scale. 
+  clusters at scale.
+* [OS Image Composer](https://github.com/open-edge-platform/os-image-composer) is a framework that provides a general-purpose toolchain for composing
+  OS images from pre-built artifacts of any Linux distribution that supports Debian or RPM packages. With OS Image Composer, you can generate
+  edge-optimized OS images using Intel's pre-curated YAML templates or your own customization. 
 * [Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit) is an edge-optimized container host offering the latest
   Intel silicon capabilities, for exploring advanced AI workloads at the edge. It is a minimal-footprint system based on Azure Linux distribution, sharing
   its open source license.
