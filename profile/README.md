@@ -25,7 +25,7 @@ It offers a modular, composable software stack that brings together the open sou
   </a>
 </div>
 
-## The platform comprises six key repositories: 
+## The platform comprises seven key repositories: 
 
 * [Edge AI Suites](https://github.com/open-edge-platform/edge-ai-suites) are curated collections of building blocks, industry-specific libraries,
   and sample applications designed to help you develop optimized AI solutions tailored to specific use cases. Currently, six suites are featured:
@@ -33,8 +33,9 @@ It offers a modular, composable software stack that brings together the open sou
   [Manufacturing](https://github.com/open-edge-platform/edge-ai-suites/blob/main/manufacturing-ai-suite),
   [Retail](https://github.com/open-edge-platform/edge-ai-suites/blob/main/retail-ai-suite),
   [Robotics](https://github.com/open-edge-platform/edge-ai-suites/blob/main/robotics-ai-suite),
-  [Education](https://github.com/open-edge-platform/edge-ai-suites/blob/main/education-ai-suite), and
-  [Health and Life Sciences](https://github.com/open-edge-platform/edge-ai-suites/tree/main/health-and-life-sciences-ai-suite)
+  [Education](https://github.com/open-edge-platform/edge-ai-suites/blob/main/education-ai-suite),
+  [Health and Life Sciences](https://github.com/open-edge-platform/edge-ai-suites/tree/main/health-and-life-sciences-ai-suite), and 
+  [Federal and Aerospace](https://github.com/open-edge-platform/edge-ai-suites/tree/main/federal-aerospace).
 * [Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries) provide edge-optimized, composable libraries, SDKs, and microservices
   to support the development of performant, production-grade multimodal edge AI applications, along with user-friendly workflows for optimization and
   deployment.
