@@ -15,11 +15,6 @@ It offers a modular, composable software stack that brings together the open sou
   </a>
 </div>
 <div align="center" >
-  <a href="https://github.com/open-edge-platform/edge-manageability-framework">
-    <img src="../images/OEP-stack-diag-C.drawio.svg" alt="edge manageability" width="500" />
-  </a>
-</div>
-<div align="center" >
   <a href="https://github.com/open-edge-platform/edge-microvisor-toolkit" >
     <img src="../images/OEP-stack-diag-D.drawio.svg" alt="microvisor"  width="500" />
   </a>
@@ -39,9 +34,6 @@ It offers a modular, composable software stack that brings together the open sou
 * [Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries) provide edge-optimized, composable libraries, SDKs, and microservices
   to support the development of performant, production-grade multimodal edge AI applications, along with user-friendly workflows for optimization and
   deployment.
-* [Edge Manageability Framework](https://github.com/open-edge-platform/edge-manageability-framework) provides capabilities and building blocks for
-  secure onboarding, provisioning, and management of edge devices and edge node software, along with orchestration of edge and AI applications and
-  clusters at scale.
 * [Image Composer Tool](https://github.com/open-edge-platform/image-composer-tool) is a framework that provides a general-purpose toolchain for composing
   OS images from pre-built artifacts of any Linux distribution that supports Debian or RPM packages. With Image Composer Tool, you can generate
   edge-optimized OS images using Intel's pre-curated YAML templates or your own customization. 
