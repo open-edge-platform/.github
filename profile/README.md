@@ -20,7 +20,7 @@ It offers a modular, composable software stack that brings together the open sou
   </a>
 </div>
 
-## The platform comprises seven key repositories: 
+## The platform comprises key repositories: 
 
 * [Edge AI Suites](https://github.com/open-edge-platform/edge-ai-suites) are curated collections of building blocks, industry-specific libraries,
   and sample applications designed to help you develop optimized AI solutions tailored to specific use cases. Currently, six suites are featured:
