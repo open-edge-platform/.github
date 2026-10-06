@@ -11,12 +11,12 @@ It offers a modular, composable software stack that brings together the open sou
   </a>
 </div>
 <div align="center" >
-  <a href="https://github.com/open-edge-platform/edge-ai-libraries">
+  <a href="#">
     <img src="../images/OEP-stack-diag-B.drawio.svg" alt="libraries" width="500" />
   </a>
 </div>
 <div align="center" >
-  <a href="https://github.com/open-edge-platform/edge-microvisor-toolkit" >
+  <a href="#" >
     <img src="../images/OEP-stack-diag-D.drawio.svg" alt="microvisor"  width="500" />
   </a>
 </div>
