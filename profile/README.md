@@ -1,6 +1,6 @@
 # Welcome to the Open Edge Platform GitHub Organization! 
 
-Open Edge Platform is an Intel®-optimized open software platform for developing and testing scalable edge solutions. 
+Open Edge Platform is an Intel-optimized open software platform for developing and testing scalable edge solutions. 
 
 It offers a modular, composable software stack that brings together the open source ecosystem to help you design and build performant edge solutions that operate with cloud-like capabilities.
 
@@ -24,7 +24,7 @@ It offers a modular, composable software stack that brings together the open sou
 
 ## The platform comprises several key repositories: 
 
-* Edge AI Suites - curated collections of sample
+* Edge AI Suites are curated collections of sample
   applications designed as a reference to help you develop optimized AI products tailored to specific use cases.
   Suites incorporate a variety of shared Open Edge Platform components, as well as their own and third-party
   building blocks. Currently, seven suites are featured:
@@ -41,15 +41,8 @@ It offers a modular, composable software stack that brings together the open sou
   edge-optimized libraries, tools, SDKs, and microservices to support you in developing
   performant edge AI applications, along with user-friendly workflows for optimization
   and deployment.
-* [Image Composer Tool](https://github.com/open-edge-platform/image-composer-tool) 
-  is a framework providing a general-purpose toolchain for composing OS images from
-  pre-built artifacts of any Linux distribution that supports Debian or RPM packages.
-  You can generate edge-optimized OS images using Intel's pre-set YAML templates or your
-  own customizations. 
-* [Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit) 
-  is an edge-optimized container host offering the latest Intel silicon capabilities,
-  for exploring advanced AI workloads at the edge. It is a minimal-footprint system
-  based on the Azure Linux distribution, sharing its open source license.
+* [Edge Pack](https://github.com/open-edge-platform/edge-pack) is a curated collection of Intel-validated software packages and drivers that 
+  unlock specific Intel platform capabilities. 
 * [Edge Workloads and Benchmarks](https://github.com/open-edge-platform/edge-workloads-and-benchmarks) 
   are performance-optimized pipelines that leverage the OpenVINO™ toolkit, the GStreamer
   multimedia framework, and Deep Learning Streamer (DL Streamer) for validating media
@@ -57,7 +50,7 @@ It offers a modular, composable software stack that brings together the open sou
 
 Each repository includes contribution guidelines and templates for reporting issues.
 
-You can access the platform documentation at the [OEP Documentation Website](https://docs.openedgeplatform.intel.com/) to learn more about all the components, and use the [documentation AI assistant](https://docs.openedgeplatform.intel.com/2026.1/index.html?chat) to ask questions regarding the software.
+You can access the Open Edge Platform documentation at the [documentation website](https://docs.openedgeplatform.intel.com/) to learn more about all the components, and use the [documentation AI assistant](https://docs.openedgeplatform.intel.com/2026.1/index.html?chat) to ask questions regarding the software.
 
 Unless otherwise noted, the platform’s repositories are primarily released under the Apache 2.0 license.
 
