@@ -5,17 +5,7 @@ An open source platform for developing highly-optimized and scalable AI solution
 <div style="width: fit-content; max-width: 100%; margin: 0 auto; padding: 1rem; border: 2px dashed #666;">
 <div align="center" >
   <a href="#">
-    <img src="../images/OEP-stack-diag-A.drawio.svg" alt="AI suites" width="500" />
-  </a>
-</div>
-<div align="center" >
-  <a href="#">
-    <img src="../images/OEP-stack-diag-B.drawio.svg" alt="libraries" width="500" />
-  </a>
-</div>
-<div align="center" >
-  <a href="#" >
-    <img src="../images/OEP-stack-diag-D.drawio.svg" alt="microvisor"  width="500" />
+    <img src="../images/OEP-diagram.svg" alt="Open Edge Platform" width="1000" />
   </a>
 </div>
 </div>
