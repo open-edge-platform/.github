@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="3802"
-   height="1994"
+   width="3504.5833"
+   height="1709.9346"
    xml:space="preserve"
    overflow="hidden"
    version="1.1"
@@ -22,11 +22,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1127.1282"
+     inkscape:cx="1125.714"
      inkscape:cy="660.43773"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
-     inkscape:window-x="2552"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g616" /><defs
@@ -39,7 +39,7 @@
          id="rect1" /></clipPath><linearGradient
        x1="291.069"
        y1="2087"
-       x2="4092.93"
+       x2="4092.9299"
        y2="2087"
        gradientUnits="userSpaceOnUse"
        spreadMethod="reflect"
@@ -93,7 +93,7 @@
          height="457200"
          id="rect8" /></clipPath><clipPath
        id="clip6"><rect
-         x="-9.31323e-10"
+         x="-9.3132302e-10"
          y="0"
          width="457200"
          height="457200"
@@ -104,7 +104,7 @@
        preserveAspectRatio="none"
        id="img7" /><clipPath
        id="clip8"><path
-         d="M-0.326416 0.156494 457200 0.156494 457200 457200-0.3125 457200Z"
+         d="M -0.326416,0.156494 H 457200 V 457200 H -0.3125 Z"
          fill-rule="evenodd"
          clip-rule="evenodd"
          id="path9" /></clipPath><clipPath
@@ -120,7 +120,7 @@
        preserveAspectRatio="none"
        id="img10" /><clipPath
        id="clip11"><path
-         d="M-0.218373 0.156494 457200 0.156494 457200 457200-0.21875 457200Z"
+         d="M -0.218373,0.156494 H 457200 V 457200 H -0.21875 Z"
          fill-rule="evenodd"
          clip-rule="evenodd"
          id="path10" /></clipPath><clipPath
@@ -142,7 +142,7 @@
          height="456291"
          id="rect12" /></clipPath><clipPath
        id="clip15"><rect
-         x="-0.0909091"
+         x="-0.090909101"
          y="0"
          width="459971"
          height="457200"
@@ -153,12 +153,12 @@
        preserveAspectRatio="none"
        id="img16" /><clipPath
        id="clip17"><path
-         d="M-0.00292969 0.156494 457200 0.156494 457200 457200 0 457200Z"
+         d="M -0.00292969,0.156494 H 457200 V 457200 H 0 Z"
          fill-rule="evenodd"
          clip-rule="evenodd"
          id="path13" /></clipPath><linearGradient
        x1="2205.5"
-       y1="382.208"
+       y1="382.20801"
        x2="2205.5"
        y2="2004.79"
        gradientUnits="userSpaceOnUse"
@@ -683,7 +683,7 @@
          stop-color="#38007F"
          id="stop181" /></linearGradient><linearGradient
        x1="2209"
-       y1="773.208"
+       y1="773.20801"
        x2="2209"
        y2="1638.79"
        gradientUnits="userSpaceOnUse"
@@ -1832,7 +1832,7 @@
          stop-opacity="0.701961"
          id="stop552" /></linearGradient></defs><g
      clip-path="url(#clip0)"
-     transform="translate(-291 -382)"
+     transform="translate(-291.01823,-382.01454)"
      id="g616"><rect
        x="293.37082"
        y="384.36713"
