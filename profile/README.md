@@ -2,7 +2,7 @@
 
 **Build, optimize, and deploy AI at the edge.**
 
-Open Edge Platform is an open-source platform for building highly optimized and scalable edge AI solutions on Intel hardware.
+Open Edge Platform is an open-source platform for building highly optimized and scalable edge AI solutions on Intel® hardware.
 
 <div style="width: fit-content; max-width: 100%; margin: 0 auto; padding: 1rem; border: 2px dashed #666;"> 
 <div align="center" > 
@@ -57,7 +57,7 @@ Build high-performance Vision, Generative, and Physical AI applications with [to
 
 ### Optimize AI inference
 
-The Open Edge Platform enables and integrates industry-standard solutions, such as [PyTorch](https://docs.pytorch.org/docs/main/notes/get_start_xpu.html) and [OpenVINO™](https://docs.openvino.ai/2026/index.html) to optimize AI inference across Intel® CPUs, GPUs, and NPUs. [Find out all the frameworks enabled](https://docs.openedgeplatform.intel.com/dev/edge-ai-libraries/edge-ai-frameworks.html)
+The Open Edge Platform enables and integrates industry-standard solutions, such as [PyTorch](https://docs.pytorch.org/docs/main/notes/get_start_xpu.html) and [OpenVINO™](https://docs.openvino.ai/2026/index.html) to optimize AI inference across CPUs, GPUs, and NPUs. [Find out all the frameworks enabled](https://docs.openedgeplatform.intel.com/dev/edge-ai-libraries/edge-ai-frameworks.html)
 
 
 ### Build an edge software platform
