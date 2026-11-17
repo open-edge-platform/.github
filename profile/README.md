@@ -69,7 +69,7 @@ Use performance-optimized [Edge workloads and benchmarks](https://github.com/ope
 
 ## Documentation
 
-Check the [documentation](https://docs.openedgeplatform.intel.com/2026.2/index.html) to find getting started and installation guides, architecture and configuration instructions, system requirements and release notes, or uses the [documentation AI assistant](https://docs.openedgeplatform.intel.com/2026.2/index.html) to ask questions about Open Edge Platform.
+Check the [documentation](https://docs.openedgeplatform.intel.com/2026.2/index.html) to find getting started and installation guides, architecture and configuration instructions, system requirements and release notes, or uses the [documentation AI assistant](https://docs.openedgeplatform.intel.com/2026.2/index.html?chat=) to ask questions about Open Edge Platform.
 
 
 ## Contributing
