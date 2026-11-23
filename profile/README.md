@@ -29,7 +29,7 @@ Start with reference applications, libraries, and tools curated for real-world i
 | [**Robotics**](https://github.com/open-edge-platform/robotics-ai-suite) | Humanoid, autonomous mobile, stationary arm robots, perception, real time control |
 | [**Education**](https://github.com/open-edge-platform/education-ai-suite) | Smart classroom, teaching assistance |
 | [**Health & Life Sciences**](https://github.com/open-edge-platform/health-and-life-sciences-ai-suite) | Multimodal patient monitoring, endoscopic detection, ultrasound tumor segmentation |
-| [**Federal & Aerospace**](https://github.com/open-edge-platform) | Handheld soldier systems, uncrewed aerial vehicle, mission decision support |
+| [**Federal & Aerospace**](https://github.com/open-edge-platform/federal-and-aerospace-ai-suite) | Handheld soldier systems, uncrewed aerial vehicle, mission decision support |
 
 
 ### Libraries, Tools and Services
@@ -46,12 +46,12 @@ Build high-performance Vision, Generative, and Physical AI applications with [to
 
 | Tool | What it does |
 |---|---|
-| [Anomalib](https://github.com/open-edge-platform) | Train and deploy visual anomaly detection models |
-| [Geti™](https://github.com/open-edge-platform) | Build, train, optimize, and run computer vision models |
-| [Datumaro](https://github.com/open-edge-platform) | Build, analyze, transform, and manage computer vision datasets |
-| [DL Streamer](https://github.com/open-edge-platform) | Build streaming media analytics pipelines |
-| [SceneScape](https://github.com/open-edge-platform) | Build multimodal object tracking and scene analytics |
-| [Physical AI Studio](https://github.com/open-edge-platform) | Train robots from human demonstrations |
+| [Anomalib](https://github.com/open-edge-platform/anomalib) | Train and deploy visual anomaly detection models |
+| [Geti™](https://github.com/open-edge-platform/geti) | Build, train, optimize, and run computer vision models |
+| [Datumaro](https://github.com/open-edge-platform/datumaro) | Build, analyze, transform, and manage computer vision datasets |
+| [DL Streamer](https://github.com/open-edge-platform/dlstreamer) | Build streaming media analytics pipelines |
+| [SceneScape](https://github.com/open-edge-platform/scenescape) | Build multimodal object tracking and scene analytics |
+| [Physical AI Studio](https://github.com/open-edge-platform/physical-ai-studio) | Train robots from human demonstrations |
 | [ViPPET](https://github.com/open-edge-platform/edge-ai-libraries/tree/main/tools/visual-pipeline-and-platform-evaluation-tool) | Get actionable insights that support optimized hardware selection and performance tuning |
 
 
@@ -69,7 +69,7 @@ Use performance-optimized [Edge workloads and benchmarks](https://github.com/ope
 
 ## Documentation
 
-Check the [documentation](https://docs.openedgeplatform.intel.com/2026.2/index.html) to find getting started and installation guides, architecture and configuration instructions, system requirements and release notes, or uses the [documentation AI assistant](https://docs.openedgeplatform.intel.com/2026.2/index.html?chat=) to ask questions about Open Edge Platform.
+Check the [documentation](https://docs.openedgeplatform.intel.com) to find getting started and installation guides, architecture and configuration instructions, system requirements and release notes, or uses the [documentation AI assistant](https://docs.openedgeplatform.intel.com/2026.2/index.html?chat=) to ask questions about Open Edge Platform.
 
 
 ## Contributing
